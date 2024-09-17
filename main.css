@@ -54,6 +54,11 @@ body {
     width: 90%;
 }
 
+.carousel-item img{
+    height: 800px;
+    object-fit: cover;
+}
+
 .text-colored {
     color: #2c3b33;
 }

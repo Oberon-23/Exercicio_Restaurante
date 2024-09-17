@@ -40,6 +40,7 @@ body {
     height: 200px; 
     object-fit: cover; 
     border-radius: 5px; 
+    margin-bottom: 4px;
 }
 
 .carousel,
@@ -91,5 +92,25 @@ body {
     .carousel-item img {
         height: 280px;
     }
+
+    #carousel {
+        margin-top: 0; 
+    }
+
+    #cabecalho {
+        margin-bottom: 0; 
+    }
+
+    #sobre-o-restaurante.pt-0 {
+        padding-top: 0; 
+    }
+
+    #sobre-o-restaurante.mt-0 {
+        margin-top: 0; 
+    }
 }
+
+
+
+
 
